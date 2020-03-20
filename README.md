@@ -1,2 +1,2 @@
-# Blinky con freeRTOS y sAPI. 
+# Ejercicio rtos2 parte 1. 
 
